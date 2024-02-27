@@ -11,6 +11,11 @@ randomly generated word in each iteration. Please note that while this
 demonstrates cryptographic hashing, Go's standard cryptographic libraries are
 not FIPS 140-2 validated.
 
+# Why was this created?
+
+This was created as a example we can use to turn into a melange package, and
+later produce a container image using apko.
+
 ## Prerequisites
 
 Before you begin, ensure you have Go installed on your system (version 1.15 or
