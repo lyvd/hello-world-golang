@@ -11,11 +11,6 @@ randomly generated word in each iteration. Please note that while this
 demonstrates cryptographic hashing, Go's standard cryptographic libraries are
 not FIPS 140-2 validated.
 
-## Why add
-While the application utilizes Go's crypto/sha256 for hashing, please note that
-Go's standard library, including its cryptographic packages, is not
-FIPS 140-2 validated.
-
 ## Prerequisites
 
 Before you begin, ensure you have Go installed on your system (version 1.15 or
