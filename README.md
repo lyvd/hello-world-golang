@@ -26,7 +26,7 @@ later recommended).
 Clone the repository to your local machine to get started with this project:
 
 ```bash
-git clone https://github.com/marmccor/hello-world-golang.git
+git clone https://github.com/chainguard-dev/hello-world-golang.git
 cd hello-world-golang
 ```
 
