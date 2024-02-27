@@ -57,6 +57,13 @@ INFO[0025] hello world - iteration 6 at 2024-02-27 11:17:38 - random word: Duckp
 INFO[0030] hello world - iteration 7 at 2024-02-27 11:17:43 - random word: Footwool - hash: a3a3fd79f76761091199925cbc19d548fb238897a9eca2f3e9d66d743e658110
 ```
 
+To validate the version of the application:
+
+```bash
+% ./hello-world-golang --version
+Hello World GoLang Version: 1.2
+```
+
 ## Updating dependencies
 
 To update a specific dependency to a new version, you can use the go get command
