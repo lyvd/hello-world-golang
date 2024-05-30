@@ -13,6 +13,7 @@ import (
 const AppVersion = "1.2"
 
 func main() {
+	fmt.Println("Hello Chainguard!")
 	// Define a version flag
 	versionFlag := flag.Bool("version", false, "Print the version of the application and exit")
 	flag.Parse() // Parse the command-line flags
